@@ -1,0 +1,5 @@
+This is the PDF Generator Tool of the Web Services Framework.
+It takes 3 command line arguments:-
+1. The location of the folder which needs to be scanned for class files having annotations applied.
+2. The destination to which the services.pdf needs to be created.
+3. The destination to which the errors.pdf needs to be created.
