@@ -1,2 +1,1 @@
-# WebServicesFramework
-This is what we want
+# WebServicesFramework Documentation
