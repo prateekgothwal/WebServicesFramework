@@ -4,6 +4,7 @@ The requests that come as get request are classified as:-
 1. The request with no query string. (/service/student/kite). The response contains the String which the particular service method returns.
 2. The request with query string. (/service/student/details?rr=101&nn=Sameer). The response contains the String which the particular service method returns.
 3. The request in which some object is kept in the request scope. The object is fetched from the request scope and converted into the object of the class which is the value of the parameter annotation.
+
 POST requests
 The request in which JSON String come. The JSON String is converted into the Object which is passed as an argument to the service method.
 
